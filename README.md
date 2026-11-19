@@ -17,7 +17,7 @@ ZIP에 코드, 로봇 모델, 네 개의 학습된 ONNX policy가 모두 포함�
 
 Windows, macOS, Linux에서 Python 3.11을 사용합니다. NVIDIA GPU, CUDA, PyTorch, MjLab은 play에 필요하지 않습니다. 화면은 Chrome/Edge/Firefox 등의 브라우저에서 표시합니다.
 
-[uv 설치 안내](https://docs.astral.sh/uv/getting-started/installation/)에 따라 `uv`를 설치한 뒤, ZIP을 풀고 **이 README와 pyproject.toml이 있는 폴더**에서 터미널을 엽니다.
+[uv 설치 안내](https://docs.astral.sh/uv/getting-started/installation/)에 따라 `uv`를 설치한 뒤, ZIP을 풀고 **이 README와 pyproject.toml이 있는 폴더**에서 터미널을 엽니다. 설치 후에도 `uv` 명령이 작동하지 않으면 `pip install uv`로 설치한 뒤 다시 실행합니다.
 
 ```bash
 uv python install 3.11
