@@ -1,0 +1,2106 @@
+{
+  "observations_tested": 300,
+  "max_action_error": 1.1444091796875e-05,
+  "reference_jump_1m": [
+    {
+      "time": 0.02,
+      "phase": 0,
+      "pelvis_height": 0.717043936252594,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.04,
+      "phase": 0,
+      "pelvis_height": 0.7106228470802307,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.06,
+      "phase": 0,
+      "pelvis_height": 0.7008307576179504,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.08,
+      "phase": 0,
+      "pelvis_height": 0.6870750784873962,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.1,
+      "phase": 0,
+      "pelvis_height": 0.66941899061203,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.12,
+      "phase": 0,
+      "pelvis_height": 0.6477778553962708,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.14,
+      "phase": 0,
+      "pelvis_height": 0.6224134564399719,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.16,
+      "phase": 0,
+      "pelvis_height": 0.5940999388694763,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.18,
+      "phase": 0,
+      "pelvis_height": 0.5642948746681213,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.2,
+      "phase": 0,
+      "pelvis_height": 0.5346377491950989,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.22,
+      "phase": 0,
+      "pelvis_height": 0.5058090090751648,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.24,
+      "phase": 0,
+      "pelvis_height": 0.48199260234832764,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.26,
+      "phase": 0,
+      "pelvis_height": 0.47251591086387634,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.28,
+      "phase": 0,
+      "pelvis_height": 0.4783383309841156,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.3,
+      "phase": 0,
+      "pelvis_height": 0.48442161083221436,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.32,
+      "phase": 0,
+      "pelvis_height": 0.48605015873908997,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.34,
+      "phase": 0,
+      "pelvis_height": 0.48687058687210083,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.36,
+      "phase": 0,
+      "pelvis_height": 0.4880399703979492,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.38,
+      "phase": 0,
+      "pelvis_height": 0.48951148986816406,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.4,
+      "phase": 0,
+      "pelvis_height": 0.49069881439208984,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.42,
+      "phase": 0,
+      "pelvis_height": 0.49118709564208984,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.44,
+      "phase": 0,
+      "pelvis_height": 0.491693377494812,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.46,
+      "phase": 0,
+      "pelvis_height": 0.4930516481399536,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.48,
+      "phase": 0,
+      "pelvis_height": 0.49537476897239685,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.5,
+      "phase": 0,
+      "pelvis_height": 0.4984906315803528,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.52,
+      "phase": 0,
+      "pelvis_height": 0.5022410154342651,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.54,
+      "phase": 0,
+      "pelvis_height": 0.506424069404602,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.56,
+      "phase": 0,
+      "pelvis_height": 0.5107869505882263,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.58,
+      "phase": 0,
+      "pelvis_height": 0.5150635242462158,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.6,
+      "phase": 0,
+      "pelvis_height": 0.5189948081970215,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.62,
+      "phase": 0,
+      "pelvis_height": 0.5223494172096252,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.64,
+      "phase": 0,
+      "pelvis_height": 0.5249640345573425,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.66,
+      "phase": 0,
+      "pelvis_height": 0.5267680883407593,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.68,
+      "phase": 0,
+      "pelvis_height": 0.5277484059333801,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.7000000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5279014706611633,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.72,
+      "phase": 0,
+      "pelvis_height": 0.5271708369255066,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.74,
+      "phase": 0,
+      "pelvis_height": 0.5253817439079285,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.76,
+      "phase": 0,
+      "pelvis_height": 0.5223347544670105,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.78,
+      "phase": 0,
+      "pelvis_height": 0.5184011459350586,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.8,
+      "phase": 0,
+      "pelvis_height": 0.5145334601402283,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.8200000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5110691785812378,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.84,
+      "phase": 0,
+      "pelvis_height": 0.508017897605896,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.86,
+      "phase": 0,
+      "pelvis_height": 0.5055504441261292,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.88,
+      "phase": 0,
+      "pelvis_height": 0.5038146376609802,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.9,
+      "phase": 0,
+      "pelvis_height": 0.5027971863746643,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.92,
+      "phase": 0,
+      "pelvis_height": 0.5024359822273254,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.9400000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5027362108230591,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.96,
+      "phase": 0,
+      "pelvis_height": 0.5036368370056152,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 0.98,
+      "phase": 0,
+      "pelvis_height": 0.5050165057182312,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.0,
+      "phase": 0,
+      "pelvis_height": 0.5068143606185913,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.02,
+      "phase": 0,
+      "pelvis_height": 0.5089375972747803,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.04,
+      "phase": 0,
+      "pelvis_height": 0.511255145072937,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.06,
+      "phase": 0,
+      "pelvis_height": 0.5138311982154846,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.08,
+      "phase": 0,
+      "pelvis_height": 0.5159075260162354,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.1,
+      "phase": 0,
+      "pelvis_height": 0.5155700445175171,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.12,
+      "phase": 0,
+      "pelvis_height": 0.5141430497169495,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.1400000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5124158263206482,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.16,
+      "phase": 0,
+      "pelvis_height": 0.5107115507125854,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.18,
+      "phase": 0,
+      "pelvis_height": 0.5090749263763428,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.2,
+      "phase": 0,
+      "pelvis_height": 0.5075424313545227,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.22,
+      "phase": 0,
+      "pelvis_height": 0.5062969923019409,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.24,
+      "phase": 0,
+      "pelvis_height": 0.5054032206535339,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.26,
+      "phase": 0,
+      "pelvis_height": 0.5048534870147705,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.28,
+      "phase": 0,
+      "pelvis_height": 0.5046226382255554,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.3,
+      "phase": 0,
+      "pelvis_height": 0.5046730041503906,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.32,
+      "phase": 0,
+      "pelvis_height": 0.5048965811729431,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.34,
+      "phase": 0,
+      "pelvis_height": 0.5051649808883667,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.36,
+      "phase": 0,
+      "pelvis_height": 0.5054550766944885,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.3800000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5061458349227905,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.4000000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5074769258499146,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.42,
+      "phase": 0,
+      "pelvis_height": 0.5093238353729248,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.44,
+      "phase": 0,
+      "pelvis_height": 0.5114608407020569,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.46,
+      "phase": 0,
+      "pelvis_height": 0.513685941696167,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.48,
+      "phase": 0,
+      "pelvis_height": 0.5158281326293945,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.5,
+      "phase": 0,
+      "pelvis_height": 0.5177271366119385,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.52,
+      "phase": 0,
+      "pelvis_height": 0.51921546459198,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.54,
+      "phase": 0,
+      "pelvis_height": 0.5201050043106079,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.56,
+      "phase": 0,
+      "pelvis_height": 0.520175576210022,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.58,
+      "phase": 0,
+      "pelvis_height": 0.5191572904586792,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.6,
+      "phase": 0,
+      "pelvis_height": 0.5171260237693787,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.62,
+      "phase": 0,
+      "pelvis_height": 0.514514684677124,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.6400000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5118979215621948,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.6600000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5091939568519592,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.68,
+      "phase": 0,
+      "pelvis_height": 0.5065286159515381,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.7,
+      "phase": 0,
+      "pelvis_height": 0.5041749477386475,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.72,
+      "phase": 0,
+      "pelvis_height": 0.5023159384727478,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.74,
+      "phase": 0,
+      "pelvis_height": 0.5010624527931213,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.76,
+      "phase": 0,
+      "pelvis_height": 0.5005433559417725,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.78,
+      "phase": 0,
+      "pelvis_height": 0.5008262395858765,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.8,
+      "phase": 0,
+      "pelvis_height": 0.5018254518508911,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.82,
+      "phase": 0,
+      "pelvis_height": 0.5033778548240662,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.84,
+      "phase": 0,
+      "pelvis_height": 0.505339503288269,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.86,
+      "phase": 0,
+      "pelvis_height": 0.5075734853744507,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.8800000000000001,
+      "phase": 0,
+      "pelvis_height": 0.5098748207092285,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.9000000000000001,
+      "phase": 0,
+      "pelvis_height": 0.510714054107666,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.92,
+      "phase": 0,
+      "pelvis_height": 0.51021409034729,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.94,
+      "phase": 0,
+      "pelvis_height": 0.5091937780380249,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.96,
+      "phase": 0,
+      "pelvis_height": 0.5080029368400574,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 1.98,
+      "phase": 0,
+      "pelvis_height": 0.5067600607872009,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.0,
+      "phase": 1,
+      "pelvis_height": 0.5055036544799805,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.02,
+      "phase": 1,
+      "pelvis_height": 0.503968358039856,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.04,
+      "phase": 1,
+      "pelvis_height": 0.5036287903785706,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.06,
+      "phase": 1,
+      "pelvis_height": 0.5065931081771851,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.08,
+      "phase": 1,
+      "pelvis_height": 0.5121122002601624,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.1,
+      "phase": 1,
+      "pelvis_height": 0.5185721516609192,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.12,
+      "phase": 1,
+      "pelvis_height": 0.5274484157562256,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.14,
+      "phase": 1,
+      "pelvis_height": 0.5395421385765076,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.16,
+      "phase": 1,
+      "pelvis_height": 0.5553791522979736,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.18,
+      "phase": 1,
+      "pelvis_height": 0.5743378400802612,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.2,
+      "phase": 1,
+      "pelvis_height": 0.5966337323188782,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.22,
+      "phase": 1,
+      "pelvis_height": 0.6220396161079407,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.24,
+      "phase": 1,
+      "pelvis_height": 0.6512356400489807,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.2600000000000002,
+      "phase": 1,
+      "pelvis_height": 0.681891918182373,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.2800000000000002,
+      "phase": 1,
+      "pelvis_height": 0.7084431052207947,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.3000000000000003,
+      "phase": 1,
+      "pelvis_height": 0.7310422658920288,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.32,
+      "phase": 1,
+      "pelvis_height": 0.7501280307769775,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.34,
+      "phase": 1,
+      "pelvis_height": 0.7691139578819275,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.36,
+      "phase": 1,
+      "pelvis_height": 0.7875690460205078,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.38,
+      "phase": 1,
+      "pelvis_height": 0.8045552372932434,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.4,
+      "phase": 1,
+      "pelvis_height": 0.8181099891662598,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.42,
+      "phase": 1,
+      "pelvis_height": 0.830221951007843,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.44,
+      "phase": 1,
+      "pelvis_height": 0.8399795889854431,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.46,
+      "phase": 1,
+      "pelvis_height": 0.8472968339920044,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.48,
+      "phase": 1,
+      "pelvis_height": 0.8515490889549255,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.5,
+      "phase": 1,
+      "pelvis_height": 0.8512852191925049,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.52,
+      "phase": 1,
+      "pelvis_height": 0.8456737995147705,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.54,
+      "phase": 1,
+      "pelvis_height": 0.835045576095581,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.56,
+      "phase": 1,
+      "pelvis_height": 0.8196768164634705,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.58,
+      "phase": 1,
+      "pelvis_height": 0.7999853491783142,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.6,
+      "phase": 1,
+      "pelvis_height": 0.7761306166648865,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.62,
+      "phase": 1,
+      "pelvis_height": 0.7585188150405884,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.64,
+      "phase": 1,
+      "pelvis_height": 0.7506739497184753,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.66,
+      "phase": 1,
+      "pelvis_height": 0.7500848770141602,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.68,
+      "phase": 1,
+      "pelvis_height": 0.7536957859992981,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.7,
+      "phase": 1,
+      "pelvis_height": 0.7569148540496826,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.72,
+      "phase": 1,
+      "pelvis_height": 0.7575756907463074,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.74,
+      "phase": 1,
+      "pelvis_height": 0.7542967200279236,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.7600000000000002,
+      "phase": 1,
+      "pelvis_height": 0.747818648815155,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.7800000000000002,
+      "phase": 1,
+      "pelvis_height": 0.7383014559745789,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.8000000000000003,
+      "phase": 1,
+      "pelvis_height": 0.7263878583908081,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.82,
+      "phase": 1,
+      "pelvis_height": 0.7129097580909729,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.84,
+      "phase": 1,
+      "pelvis_height": 0.698120653629303,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.86,
+      "phase": 1,
+      "pelvis_height": 0.6865995526313782,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.88,
+      "phase": 1,
+      "pelvis_height": 0.6783730983734131,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.9,
+      "phase": 1,
+      "pelvis_height": 0.6685178279876709,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.92,
+      "phase": 1,
+      "pelvis_height": 0.6551215648651123,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.94,
+      "phase": 1,
+      "pelvis_height": 0.6394111514091492,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.96,
+      "phase": 1,
+      "pelvis_height": 0.6224931478500366,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 2.98,
+      "phase": 1,
+      "pelvis_height": 0.6049990653991699,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.0,
+      "phase": 1,
+      "pelvis_height": 0.5855631828308105,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.02,
+      "phase": 1,
+      "pelvis_height": 0.5621601343154907,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.04,
+      "phase": 1,
+      "pelvis_height": 0.5349671244621277,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.06,
+      "phase": 1,
+      "pelvis_height": 0.5096266269683838,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.08,
+      "phase": 1,
+      "pelvis_height": 0.5095102787017822,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.1,
+      "phase": 1,
+      "pelvis_height": 0.5128477811813354,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.12,
+      "phase": 1,
+      "pelvis_height": 0.5149360299110413,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.14,
+      "phase": 1,
+      "pelvis_height": 0.515842080116272,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.16,
+      "phase": 1,
+      "pelvis_height": 0.5153595209121704,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.18,
+      "phase": 1,
+      "pelvis_height": 0.5130431056022644,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.2,
+      "phase": 1,
+      "pelvis_height": 0.510881245136261,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.22,
+      "phase": 1,
+      "pelvis_height": 0.507906436920166,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.24,
+      "phase": 1,
+      "pelvis_height": 0.504047691822052,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.2600000000000002,
+      "phase": 1,
+      "pelvis_height": 0.49919214844703674,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.2800000000000002,
+      "phase": 1,
+      "pelvis_height": 0.49325892329216003,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.3000000000000003,
+      "phase": 1,
+      "pelvis_height": 0.486121267080307,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.3200000000000003,
+      "phase": 1,
+      "pelvis_height": 0.47723138332366943,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.34,
+      "phase": 1,
+      "pelvis_height": 0.467406302690506,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.36,
+      "phase": 1,
+      "pelvis_height": 0.4559667408466339,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.38,
+      "phase": 1,
+      "pelvis_height": 0.4424574077129364,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.4,
+      "phase": 1,
+      "pelvis_height": 0.4274011552333832,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.42,
+      "phase": 1,
+      "pelvis_height": 0.4101170003414154,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.44,
+      "phase": 1,
+      "pelvis_height": 0.390553742647171,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.46,
+      "phase": 1,
+      "pelvis_height": 0.36845725774765015,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.48,
+      "phase": 1,
+      "pelvis_height": 0.34350958466529846,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.5,
+      "phase": 1,
+      "pelvis_height": 0.316486656665802,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.52,
+      "phase": 1,
+      "pelvis_height": 0.2897146940231323,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.54,
+      "phase": 1,
+      "pelvis_height": 0.261220246553421,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.56,
+      "phase": 1,
+      "pelvis_height": 0.23080937564373016,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.58,
+      "phase": 1,
+      "pelvis_height": 0.20164309442043304,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.6,
+      "phase": 1,
+      "pelvis_height": 0.17504312098026276,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.62,
+      "phase": 1,
+      "pelvis_height": 0.15690457820892334,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.64,
+      "phase": 1,
+      "pelvis_height": 0.1582145392894745,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.66,
+      "phase": 1,
+      "pelvis_height": 0.16261032223701477,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.68,
+      "phase": 1,
+      "pelvis_height": 0.1699366420507431,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.7,
+      "phase": 1,
+      "pelvis_height": 0.17438922822475433,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.72,
+      "phase": 1,
+      "pelvis_height": 0.1749800741672516,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.74,
+      "phase": 1,
+      "pelvis_height": 0.17567843198776245,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.7600000000000002,
+      "phase": 1,
+      "pelvis_height": 0.17518649995326996,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.7800000000000002,
+      "phase": 1,
+      "pelvis_height": 0.17355084419250488,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.8000000000000003,
+      "phase": 1,
+      "pelvis_height": 0.17161020636558533,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.8200000000000003,
+      "phase": 1,
+      "pelvis_height": 0.16934502124786377,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.84,
+      "phase": 1,
+      "pelvis_height": 0.16709047555923462,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.86,
+      "phase": 1,
+      "pelvis_height": 0.16507212817668915,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.88,
+      "phase": 1,
+      "pelvis_height": 0.16252943873405457,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.9,
+      "phase": 1,
+      "pelvis_height": 0.1596628725528717,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.92,
+      "phase": 1,
+      "pelvis_height": 0.15605001151561737,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.94,
+      "phase": 1,
+      "pelvis_height": 0.15186309814453125,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.96,
+      "phase": 1,
+      "pelvis_height": 0.1466745287179947,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 3.98,
+      "phase": 1,
+      "pelvis_height": 0.14090290665626526,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.0,
+      "phase": 1,
+      "pelvis_height": 0.13812224566936493,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.0200000000000005,
+      "phase": 1,
+      "pelvis_height": 0.1376129537820816,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.04,
+      "phase": 1,
+      "pelvis_height": 0.13779404759407043,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.0600000000000005,
+      "phase": 1,
+      "pelvis_height": 0.1395828127861023,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.08,
+      "phase": 1,
+      "pelvis_height": 0.14252305030822754,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.1,
+      "phase": 1,
+      "pelvis_height": 0.14610975980758667,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.12,
+      "phase": 1,
+      "pelvis_height": 0.1499713659286499,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.14,
+      "phase": 1,
+      "pelvis_height": 0.15404649078845978,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.16,
+      "phase": 1,
+      "pelvis_height": 0.157476007938385,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.18,
+      "phase": 1,
+      "pelvis_height": 0.1593865156173706,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.2,
+      "phase": 1,
+      "pelvis_height": 0.15998129546642303,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.22,
+      "phase": 1,
+      "pelvis_height": 0.15975043177604675,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.24,
+      "phase": 1,
+      "pelvis_height": 0.1590990573167801,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.26,
+      "phase": 1,
+      "pelvis_height": 0.15837723016738892,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.28,
+      "phase": 1,
+      "pelvis_height": 0.15868952870368958,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.3,
+      "phase": 1,
+      "pelvis_height": 0.158992201089859,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.32,
+      "phase": 1,
+      "pelvis_height": 0.1592635065317154,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.34,
+      "phase": 1,
+      "pelvis_height": 0.15940618515014648,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.36,
+      "phase": 1,
+      "pelvis_height": 0.15957456827163696,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.38,
+      "phase": 1,
+      "pelvis_height": 0.15991957485675812,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.4,
+      "phase": 1,
+      "pelvis_height": 0.16048891842365265,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.42,
+      "phase": 1,
+      "pelvis_height": 0.16081611812114716,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.44,
+      "phase": 1,
+      "pelvis_height": 0.16183818876743317,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.46,
+      "phase": 1,
+      "pelvis_height": 0.16398800909519196,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.48,
+      "phase": 1,
+      "pelvis_height": 0.1671508252620697,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.5,
+      "phase": 1,
+      "pelvis_height": 0.17115925252437592,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.5200000000000005,
+      "phase": 1,
+      "pelvis_height": 0.17548902332782745,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.54,
+      "phase": 1,
+      "pelvis_height": 0.17958129942417145,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.5600000000000005,
+      "phase": 1,
+      "pelvis_height": 0.18302538990974426,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.58,
+      "phase": 1,
+      "pelvis_height": 0.18550877273082733,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.6000000000000005,
+      "phase": 1,
+      "pelvis_height": 0.18722310662269592,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.62,
+      "phase": 1,
+      "pelvis_height": 0.1879659742116928,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.64,
+      "phase": 1,
+      "pelvis_height": 0.18758364021778107,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.66,
+      "phase": 1,
+      "pelvis_height": 0.18606550991535187,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.68,
+      "phase": 1,
+      "pelvis_height": 0.18353424966335297,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.7,
+      "phase": 1,
+      "pelvis_height": 0.18007254600524902,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.72,
+      "phase": 1,
+      "pelvis_height": 0.1757957935333252,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.74,
+      "phase": 1,
+      "pelvis_height": 0.17070631682872772,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.76,
+      "phase": 1,
+      "pelvis_height": 0.1654624342918396,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.78,
+      "phase": 1,
+      "pelvis_height": 0.16038241982460022,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.8,
+      "phase": 1,
+      "pelvis_height": 0.1554776132106781,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.82,
+      "phase": 1,
+      "pelvis_height": 0.15344171226024628,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.84,
+      "phase": 1,
+      "pelvis_height": 0.15360677242279053,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.86,
+      "phase": 1,
+      "pelvis_height": 0.15518438816070557,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.88,
+      "phase": 1,
+      "pelvis_height": 0.1572411060333252,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.9,
+      "phase": 1,
+      "pelvis_height": 0.1588565707206726,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.92,
+      "phase": 1,
+      "pelvis_height": 0.16007232666015625,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.94,
+      "phase": 1,
+      "pelvis_height": 0.1610417515039444,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.96,
+      "phase": 1,
+      "pelvis_height": 0.1617499440908432,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 4.98,
+      "phase": 1,
+      "pelvis_height": 0.16228172183036804,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.0,
+      "phase": 1,
+      "pelvis_height": 0.16276144981384277,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.0200000000000005,
+      "phase": 1,
+      "pelvis_height": 0.16326077282428741,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.04,
+      "phase": 1,
+      "pelvis_height": 0.1638060212135315,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.0600000000000005,
+      "phase": 1,
+      "pelvis_height": 0.16438959538936615,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.08,
+      "phase": 1,
+      "pelvis_height": 0.164998397231102,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.1000000000000005,
+      "phase": 1,
+      "pelvis_height": 0.16563016176223755,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.12,
+      "phase": 1,
+      "pelvis_height": 0.16629765927791595,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.14,
+      "phase": 1,
+      "pelvis_height": 0.16689957678318024,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.16,
+      "phase": 1,
+      "pelvis_height": 0.16752338409423828,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.18,
+      "phase": 1,
+      "pelvis_height": 0.16819293797016144,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.2,
+      "phase": 1,
+      "pelvis_height": 0.16878236830234528,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.22,
+      "phase": 1,
+      "pelvis_height": 0.1693432778120041,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.24,
+      "phase": 1,
+      "pelvis_height": 0.16990149021148682,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.26,
+      "phase": 1,
+      "pelvis_height": 0.17039763927459717,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.28,
+      "phase": 1,
+      "pelvis_height": 0.1709219366312027,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.3,
+      "phase": 1,
+      "pelvis_height": 0.17146112024784088,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.32,
+      "phase": 1,
+      "pelvis_height": 0.1719711720943451,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.34,
+      "phase": 1,
+      "pelvis_height": 0.1725020408630371,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.36,
+      "phase": 1,
+      "pelvis_height": 0.17303036153316498,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.38,
+      "phase": 1,
+      "pelvis_height": 0.17351306974887848,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.4,
+      "phase": 1,
+      "pelvis_height": 0.17399132251739502,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.42,
+      "phase": 1,
+      "pelvis_height": 0.1744515746831894,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.44,
+      "phase": 1,
+      "pelvis_height": 0.17483025789260864,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.46,
+      "phase": 1,
+      "pelvis_height": 0.175185427069664,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.48,
+      "phase": 1,
+      "pelvis_height": 0.17551948130130768,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.5,
+      "phase": 1,
+      "pelvis_height": 0.17575864493846893,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.5200000000000005,
+      "phase": 1,
+      "pelvis_height": 0.17597922682762146,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.54,
+      "phase": 1,
+      "pelvis_height": 0.17619113624095917,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.5600000000000005,
+      "phase": 1,
+      "pelvis_height": 0.17638522386550903,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.58,
+      "phase": 1,
+      "pelvis_height": 0.17652063071727753,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.6000000000000005,
+      "phase": 1,
+      "pelvis_height": 0.17666016519069672,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.62,
+      "phase": 1,
+      "pelvis_height": 0.17679987847805023,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.64,
+      "phase": 1,
+      "pelvis_height": 0.17691907286643982,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.66,
+      "phase": 1,
+      "pelvis_height": 0.17698314785957336,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.68,
+      "phase": 1,
+      "pelvis_height": 0.17706286907196045,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.7,
+      "phase": 1,
+      "pelvis_height": 0.17713142931461334,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.72,
+      "phase": 1,
+      "pelvis_height": 0.1771407574415207,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.74,
+      "phase": 1,
+      "pelvis_height": 0.17698213458061218,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.76,
+      "phase": 1,
+      "pelvis_height": 0.1767195165157318,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.78,
+      "phase": 1,
+      "pelvis_height": 0.17637374997138977,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.8,
+      "phase": 1,
+      "pelvis_height": 0.17595185339450836,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.82,
+      "phase": 1,
+      "pelvis_height": 0.17545929551124573,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.84,
+      "phase": 1,
+      "pelvis_height": 0.17490142583847046,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.86,
+      "phase": 1,
+      "pelvis_height": 0.1742807924747467,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.88,
+      "phase": 1,
+      "pelvis_height": 0.17358484864234924,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.9,
+      "phase": 1,
+      "pelvis_height": 0.17283786833286285,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.92,
+      "phase": 1,
+      "pelvis_height": 0.17203833162784576,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.94,
+      "phase": 1,
+      "pelvis_height": 0.17116230726242065,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.96,
+      "phase": 1,
+      "pelvis_height": 0.1702062040567398,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 5.98,
+      "phase": 1,
+      "pelvis_height": 0.16923460364341736,
+      "landed": false,
+      "distance": 0.0
+    },
+    {
+      "time": 6.0,
+      "phase": 1,
+      "pelvis_height": 0.1683368682861328,
+      "landed": false,
+      "distance": 0.0
+    }
+  ]
+}

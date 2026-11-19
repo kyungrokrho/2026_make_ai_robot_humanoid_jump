@@ -1,0 +1,63 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "g1-jump-lab"
+version = "1.0.0"
+description = "Learn robot jumping: GPU training and standalone CPU policy playback."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "mujoco==3.11.0",
+  "numpy>=2.0,<3",
+  "onnxruntime>=1.20,<2",
+  "mjviser==0.0.16",
+  "viser==1.1.1",
+]
+
+[project.scripts]
+jump-play = "jump_lab.deploy.play:main"
+jump-train = "jump_lab.training.scripts.train:main"
+jump-export = "jump_lab.training.scripts.export:main"
+jump-eval = "jump_lab.training.scripts.evaluate:main"
+
+[project.entry-points."mjlab.tasks"]
+jump_lab = "jump_lab.training.tasks"
+
+[project.optional-dependencies]
+train = [
+  "mjlab @ git+https://github.com/mujocolab/mjlab.git@f135c1daa0f278bd19e323c2b9f256ca541ae2c5 ; sys_platform == 'linux'",
+  "torch>=2.14.0 ; sys_platform == 'linux'",
+  "warp-lang>=1.14.0 ; sys_platform == 'linux'",
+]
+dev = ["pytest>=9", "ruff>=0.16"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/jump_lab"]
+
+[[tool.uv.index]]
+name = "nvidia"
+url = "https://pypi.nvidia.com/"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.uv.sources]
+warp-lang = [{ index = "nvidia", marker = "sys_platform == 'linux'" }]
+torch = [{ index = "pytorch-cu130", marker = "sys_platform == 'linux'" }]
+
+[tool.ruff]
+indent-width = 2
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.hatch.metadata]
+allow-direct-references = true

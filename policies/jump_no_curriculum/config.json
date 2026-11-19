@@ -1,0 +1,325 @@
+{
+  "format_version": 1,
+  "variant": "jump_no_curriculum",
+  "iteration": 9999,
+  "checkpoint_sha256": "3d6bf36d20208c5eeb383339e31196899a677b7caddf5e08a5ee0ee9d49e0ad4",
+  "mujoco_version": "3.11.0",
+  "observation_size": 103,
+  "action_size": 29,
+  "decimation": 4,
+  "physics": {
+    "ccd_iterations": 50,
+    "ccd_tolerance": 1e-06,
+    "cone": 0,
+    "density": 0.0,
+    "disableactuator": 0,
+    "disableflags": 0,
+    "enableflags": 0,
+    "gravity": [
+      0.0,
+      0.0,
+      -9.81
+    ],
+    "impratio": 1.0,
+    "integrator": 3,
+    "iterations": 10,
+    "jacobian": 2,
+    "ls_iterations": 20,
+    "ls_tolerance": 0.01,
+    "magnetic": [
+      0.0,
+      -0.5,
+      0.0
+    ],
+    "noslip_iterations": 0,
+    "noslip_tolerance": 1e-06,
+    "o_friction": [
+      1.0,
+      1.0,
+      0.005,
+      0.0001,
+      0.0001
+    ],
+    "o_margin": 0.0,
+    "o_solimp": [
+      0.9,
+      0.95,
+      0.001,
+      0.5,
+      2.0
+    ],
+    "o_solref": [
+      0.02,
+      1.0
+    ],
+    "sdf_initpoints": 40,
+    "sdf_iterations": 10,
+    "sleep_tolerance": 0.001,
+    "solver": 2,
+    "timestep": 0.005,
+    "tolerance": 1e-08,
+    "viscosity": 0.0,
+    "wind": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "joint_names": [
+    "robot/left_hip_pitch_joint",
+    "robot/left_hip_roll_joint",
+    "robot/left_hip_yaw_joint",
+    "robot/left_knee_joint",
+    "robot/left_ankle_pitch_joint",
+    "robot/left_ankle_roll_joint",
+    "robot/right_hip_pitch_joint",
+    "robot/right_hip_roll_joint",
+    "robot/right_hip_yaw_joint",
+    "robot/right_knee_joint",
+    "robot/right_ankle_pitch_joint",
+    "robot/right_ankle_roll_joint",
+    "robot/waist_yaw_joint",
+    "robot/waist_roll_joint",
+    "robot/waist_pitch_joint",
+    "robot/left_shoulder_pitch_joint",
+    "robot/left_shoulder_roll_joint",
+    "robot/left_shoulder_yaw_joint",
+    "robot/left_elbow_joint",
+    "robot/left_wrist_roll_joint",
+    "robot/left_wrist_pitch_joint",
+    "robot/left_wrist_yaw_joint",
+    "robot/right_shoulder_pitch_joint",
+    "robot/right_shoulder_roll_joint",
+    "robot/right_shoulder_yaw_joint",
+    "robot/right_elbow_joint",
+    "robot/right_wrist_roll_joint",
+    "robot/right_wrist_pitch_joint",
+    "robot/right_wrist_yaw_joint"
+  ],
+  "actuator_ids": [
+    10,
+    15,
+    11,
+    16,
+    25,
+    26,
+    12,
+    17,
+    13,
+    18,
+    27,
+    28,
+    14,
+    23,
+    24,
+    0,
+    1,
+    2,
+    3,
+    4,
+    19,
+    20,
+    5,
+    6,
+    7,
+    8,
+    9,
+    21,
+    22
+  ],
+  "default_joint_pos": [
+    -0.5,
+    0.0,
+    0.0,
+    1.0,
+    -0.5,
+    0.0,
+    -0.5,
+    0.0,
+    0.0,
+    1.0,
+    -0.5,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.20000000298023224,
+    0.20000000298023224,
+    0.0,
+    0.6000000238418579,
+    0.0,
+    0.0,
+    0.0,
+    0.20000000298023224,
+    -0.20000000298023224,
+    0.0,
+    0.6000000238418579,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "action_scale": [
+    0.5475464463233948,
+    0.3506614565849304,
+    0.5475464463233948,
+    0.3506614565849304,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.5475464463233948,
+    0.3506614565849304,
+    0.5475464463233948,
+    0.3506614565849304,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.5475464463233948,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.07450087368488312,
+    0.07450087368488312,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.4385773241519928,
+    0.07450087368488312,
+    0.07450087368488312
+  ],
+  "clip_actions": null,
+  "initial_qpos": [
+    0.0,
+    0.0,
+    0.7199482321739197,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.5,
+    0.0,
+    0.0,
+    1.0,
+    -0.5,
+    0.0,
+    -0.5,
+    0.0,
+    0.0,
+    1.0,
+    -0.5,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.20000000298023224,
+    0.20000000298023224,
+    0.0,
+    0.6000000238418579,
+    0.0,
+    0.0,
+    0.0,
+    0.20000000298023224,
+    -0.20000000298023224,
+    0.0,
+    0.6000000238418579,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "fsm": {
+    "mode": "button",
+    "request_time_range": [
+      0.5,
+      2.0
+    ],
+    "idle_fraction": 0.2,
+    "delta_max": 2.0,
+    "band_width": 0.1,
+    "top_band_fraction": 0.5,
+    "fixed_targets": null,
+    "takeoff_air_ticks": 3,
+    "takeoff_clearance": 0.03,
+    "takeoff_min_rise": 0.03,
+    "takeoff_max_tilt": 0.8726646259971648,
+    "prep_step_tolerance": 0.05,
+    "takeoff_timeout_s": 1.5,
+    "flight_timeout_s": 1.0,
+    "double_support_window_s": 0.1,
+    "recovery_timeout_s": 3.5,
+    "stable_lin_vel": 0.15,
+    "stable_ang_vel": 0.5,
+    "stable_tilt": 0.20943951023931956,
+    "stable_scale": 1.0,
+    "stable_filter_s": 0.0,
+    "recovery_stable_s": 0.35,
+    "tol_x": 0.1,
+    "tol_x_slope": 0.05,
+    "tol_y": 0.08,
+    "tol_yaw": 0.2617993877991494,
+    "apex_min": 0.3,
+    "apex_base": 0.1,
+    "apex_slope": 0.18,
+    "push_speed": 2.5,
+    "crouch_depth": 0.15,
+    "crouch_margin": 0.02
+  },
+  "contact_force_threshold": 5.0,
+  "observation_terms": [
+    {
+      "name": "base_lin_vel",
+      "shape": [
+        3
+      ]
+    },
+    {
+      "name": "base_ang_vel",
+      "shape": [
+        3
+      ]
+    },
+    {
+      "name": "projected_gravity",
+      "shape": [
+        3
+      ]
+    },
+    {
+      "name": "joint_pos",
+      "shape": [
+        29
+      ]
+    },
+    {
+      "name": "joint_vel",
+      "shape": [
+        29
+      ]
+    },
+    {
+      "name": "actions",
+      "shape": [
+        29
+      ]
+    },
+    {
+      "name": "pelvis_height",
+      "shape": [
+        1
+      ]
+    },
+    {
+      "name": "feet_contact",
+      "shape": [
+        2
+      ]
+    },
+    {
+      "name": "jump_cue",
+      "shape": [
+        4
+      ]
+    }
+  ]
+}
